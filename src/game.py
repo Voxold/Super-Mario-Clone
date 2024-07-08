@@ -5,6 +5,8 @@ import pygame
 from player import Player
 from platform import Platform
 
+
+
 class Game:
     def __init__(self):
         self.root = tk.Tk()
