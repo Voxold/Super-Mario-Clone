@@ -1,6 +1,8 @@
 from PIL import Image, ImageTk
 import pygame
 
+
+
 class Player:
     def __init__(self, canvas, x, y, jump_sound, coin_sound):
         self.canvas = canvas
