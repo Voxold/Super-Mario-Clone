@@ -18,6 +18,6 @@ This is a clone of the classic Super Mario game, implemented in Python. The proj
 
 First, clone this repository to your local machine:
 
-```bash
-git clone https://github.com/yourusername/super_mario_clone.git
-cd super_mario_clone
+
+<code>git clone https://github.com/yourusername/super_mario_clone.git
+cd super_mario_clone</code>
