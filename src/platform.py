@@ -1,5 +1,7 @@
 from PIL import Image, ImageTk
 
+
+
 class Platform:
     def __init__(self, canvas, x, y):
         self.canvas = canvas
